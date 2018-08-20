@@ -4,8 +4,8 @@ A simple node application project to develop skills in accessing APIs in a termi
 
 ## Take a Look: 
 
-This project is not live yet...but it will be soon!
-  (link here)
+This project is terminal-based, so there is no access on the web. But feel free to clone and run it on your machine!
+  (Please note the required dependencies below!)
 
 ### Dependencies:
 
